@@ -1,0 +1,2 @@
+gcc-ar qc libRpc.a CMakeFiles/Rpc.dir/rpc/RpcServer.cpp.o
+gcc-ranlib libRpc.a

@@ -1,0 +1,38 @@
+2021-Aug-18 00:56:23.839359 INFO    [daemon] 
+
+                                                                            
+████████╗██╗  ██╗██████╗ ████████╗██╗    ██████╗ █████╗ █████╗ ██╗███╗   ██╗
+╚══██╔══╝██║  ██║██╔══██╗╚══██╔══╝██║    ██╔═══╝██╔═══╝██╔══██╗██║████╗  ██║
+   ██║   ██║  ██║██████╔╝   ██║   ██║    ████╗  ██║    ██║  ██║██║██╔██╗ ██║
+   ██║   ██║  ██║██╔══██╗   ██║   ██║    ██╔═╝  ██║    ██║  ██║██║██║╚██╗██║
+   ██║   ╚█████╔╝██║  ██║   ██║   ██████╗██████╗╚█████╗╚█████╔╝██║██║ ╚████║
+   ╚═╝    ╚════╝ ╚═╝  ╚═╝   ╚═╝   ╚═════╝╚═════╝ ╚════╝ ╚════╝ ╚═╝╚═╝  ╚═══╝
+
+ Zlatnik v1.0.0.2000 ()
+ This software is distributed under the General Public License v3.0
+
+ Copyright 2018-2020, The TurtleCoin Developers
+
+ Additional Copyright(s) may apply, please see the included LICENSE file for more information.
+ If you did not receive a copy of the LICENSE, please visit:
+ https://github.com/turtlecoin/turtlecoin/blob/master/LICENSE
+
+
+2021-Aug-18 00:56:23.839515 INFO    [daemon] Program Working Directory: "/home/frederafantom/turtlecoin/build/src"
+2021-Aug-18 00:56:23.839569 INFO    [daemon] Loading Checkpoints for faster initial sync...
+2021-Aug-18 00:56:23.839594 INFO    [daemon] Loaded 0 default checkpoints
+2021-Aug-18 00:56:23.839728 INFO    [RocksDBWrapper] Opening DB in /home/frederafantom/.Zlatnik/DB
+2021-Aug-18 00:56:23.840338 INFO    [RocksDBWrapper] DB not found in /home/frederafantom/.Zlatnik/DB. Creating new DB...
+2021-Aug-18 00:56:23.848439 INFO    [daemon] Initializing core...
+2021-Aug-18 00:56:23.848854 INFO    [daemon] Core initialized OK
+2021-Aug-18 00:56:23.849220 INFO    [daemon] Initializing p2p server...
+2021-Aug-18 00:56:23.891324 INFO    [node_server] Generated new peer ID: 15590750326137513440
+2021-Aug-18 00:56:23.891384 INFO    [node_server] Binding on 0.0.0.0:11383
+2021-Aug-18 00:56:23.891420 INFO    [node_server] Net service bound on 0.0.0.0:11383
+2021-Aug-18 00:56:23.891445 INFO    [node_server] Attempting to add IGD port mapping.
+2021-Aug-18 00:56:27.951795 INFO    [node_server] No IGD was found.
+2021-Aug-18 00:56:27.951957 INFO    [daemon] P2p server initialized OK
+2021-Aug-18 00:56:27.951988 INFO    [daemon] Starting core rpc server on address 127.0.0.1:11838
+2021-Aug-18 00:56:27.952170 INFO    [daemon] Starting p2p net loop...
+2021-Aug-18 00:56:27.952202 INFO    [node_server] Starting node_server
+2021-Aug-18 00:56:47.237596 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
